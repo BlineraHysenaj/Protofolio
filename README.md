@@ -1,2 +1,2 @@
-# Protofolio
+# Portfolio
 Projekt startues per StarLabs
